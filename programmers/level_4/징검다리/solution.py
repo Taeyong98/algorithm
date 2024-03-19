@@ -1,4 +1,5 @@
 def solution(distance, rocks, n):
+
     rocks.append(0)
     rocks.append(distance)
     
